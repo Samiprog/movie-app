@@ -1,12 +1,38 @@
-# React + Vite
+# 🎥 Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React + Vite** application styled with **CSS** that fetches and displays a list of movies using an external API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Search for movies  
+- Display list of movies with posters, titles, and details  
+- Responsive UI with **manual CSS**  
+- API integration for real-time movie data  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Technologies
+
+- React  
+- Vite  
+- JavaScript (ES6+)  
+- CSS  
+- Movie API (e.g., OMDB API / custom movie API)  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v16 or above)  
+- npm or yarn  
+- Movie API key (replace in code if required)  
+
+### Installation
+
+```bash
+git clone https://github.com/Samiprog/movie-app.git
+cd movie-app
+npm install
