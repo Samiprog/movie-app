@@ -23,6 +23,10 @@ A **React + Vite** application styled with **CSS** that fetches and displays a l
 
 ---
 
+**## Preview**
+
+<img width="949" height="449" alt="Movie" src="https://github.com/user-attachments/assets/9ebe06e3-8b82-4d89-a9ff-e86d36715f5b" />
+
 ## 🚀 Getting Started
 
 ### Prerequisites
